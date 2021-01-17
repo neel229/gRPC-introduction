@@ -1,5 +1,5 @@
 gen:
-	protoc --go_out=plugins=grpc:pb *.proto
+	protoc --proto_path=proto proto/*.proto --go_out=plugins=grpc:pb
 
 clean:
 	rm pb/github.com/neel229/gRPC-introduction/*.go
