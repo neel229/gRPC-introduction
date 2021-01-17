@@ -1,0 +1,62 @@
+{
+ "id": "326ea717-26a8-4662-aebc-b5a74308b242",
+ "brand": "Microsoft",
+ "name": "Surface Pro",
+ "cpu": {
+  "brand": "AMD",
+  "name": "Ryzen 3 PRO 3200GE",
+  "number_cores": 27,
+  "number_threads": 54,
+  "min_ghz": 2.5302346093006642,
+  "max_ghz": 2.692342647712654
+ },
+ "ram": {
+  "value": "21",
+  "unit": "GIGABYTE"
+ },
+ "gpus": [
+  {
+   "brand": "NVIDIA",
+   "name": "RTX 2060",
+   "min_ghz": 1.2576063142510328,
+   "max_ghz": 1.8616474837631167,
+   "memory": {
+    "value": "6",
+    "unit": "GIGABYTE"
+   }
+  }
+ ],
+ "Storages": [
+  {
+   "driver": "SSD",
+   "memory": {
+    "value": "467",
+    "unit": "GIGABYTE"
+   }
+  },
+  {
+   "driver": "HDD",
+   "memory": {
+    "value": "6",
+    "unit": "TERABYTE"
+   }
+  }
+ ],
+ "screen": {
+  "size_inch": 14.875559,
+  "resolution": {
+   "width": 5505,
+   "height": 3097
+  },
+  "panel": "LCD",
+  "multitouch": true
+ },
+ "Keyboard": {
+  "layout": "QUERTZ",
+  "backlit": true
+ },
+ "weight_kg": 1.721742833713812,
+ "price_usd": 2641.346552142045,
+ "release_year": 2017,
+ "updated_at": "2021-01-17T18:15:23.813322100Z"
+}
