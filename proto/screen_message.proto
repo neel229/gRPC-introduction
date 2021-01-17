@@ -5,7 +5,7 @@ option go_package = "pb;pb";
 message Screen {
   message Resolution {
     uint32 width = 1;
-    uint32 heigth = 2;
+    uint32 height = 2;
   }
 
   enum Panel {

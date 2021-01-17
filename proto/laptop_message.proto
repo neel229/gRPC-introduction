@@ -14,9 +14,9 @@ message Laptop {
   string brand = 2;
   string name = 3;
   CPU cpu = 4;
-  Memory memory = 5;
+  Memory ram = 5;
   repeated GPU gpus = 6;
-  repeated Storage Storage = 7;
+  repeated Storage Storages = 7;
   Screen screen = 8;
   Keyboard Keyboard = 9;
   oneof weight {
