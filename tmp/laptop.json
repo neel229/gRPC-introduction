@@ -1,27 +1,27 @@
 {
- "id": "326ea717-26a8-4662-aebc-b5a74308b242",
- "brand": "Microsoft",
- "name": "Surface Pro",
+ "id": "7be084f6-50fb-4131-b565-613caed667a6",
+ "brand": "Dell",
+ "name": "XPS",
  "cpu": {
-  "brand": "AMD",
-  "name": "Ryzen 3 PRO 3200GE",
-  "number_cores": 27,
-  "number_threads": 54,
-  "min_ghz": 2.5302346093006642,
-  "max_ghz": 2.692342647712654
+  "brand": "Intel",
+  "name": "Xeon E-2286M",
+  "number_cores": 10,
+  "number_threads": 20,
+  "min_ghz": 2.0013421078358022,
+  "max_ghz": 2.2290841758121154
  },
  "ram": {
-  "value": "21",
+  "value": "64",
   "unit": "GIGABYTE"
  },
  "gpus": [
   {
-   "brand": "NVIDIA",
-   "name": "RTX 2060",
-   "min_ghz": 1.2576063142510328,
-   "max_ghz": 1.8616474837631167,
+   "brand": "AMD",
+   "name": "RX 590",
+   "min_ghz": 1.4083589736547484,
+   "max_ghz": 1.827493435557562,
    "memory": {
-    "value": "6",
+    "value": "3",
     "unit": "GIGABYTE"
    }
   }
@@ -30,33 +30,33 @@
   {
    "driver": "SSD",
    "memory": {
-    "value": "467",
+    "value": "486",
     "unit": "GIGABYTE"
    }
   },
   {
    "driver": "HDD",
    "memory": {
-    "value": "6",
+    "value": "5",
     "unit": "TERABYTE"
    }
   }
  ],
  "screen": {
-  "size_inch": 14.875559,
+  "size_inch": 14.594732,
   "resolution": {
-   "width": 5505,
-   "height": 3097
+   "width": 6209,
+   "height": 3493
   },
   "panel": "LCD",
-  "multitouch": true
+  "multitouch": false
  },
  "Keyboard": {
-  "layout": "QUERTZ",
+  "layout": "QUERTY",
   "backlit": true
  },
- "weight_kg": 1.721742833713812,
- "price_usd": 2641.346552142045,
- "release_year": 2017,
- "updated_at": "2021-01-17T18:15:23.813322100Z"
+ "weight_kg": 1.1492031593003886,
+ "price_usd": 3193.7379194041187,
+ "release_year": 2015,
+ "updated_at": "2021-01-17T18:21:52.341511800Z"
 }
