@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "github.com/neel229/gRPC-introduction;gRPC_introduction";
+
+message CPU {
+  // Name of brand
+  string brand = 1;
+  string name = 2;
+  uint32 number_cores = 3;
+  uint32 number_threads = 4;
+  float min_ghz = 5;
+  double max_ghz = 6;
+}
+
+
